@@ -6,14 +6,6 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func TestFoo(t *testing.T) {
-
-	t.Run("returns 4", func(t *testing.T) {
-		foo := foo()
-		assert.Equal(t, 4, foo)
-	})
-}
-
 func TestFetchAllCards(t *testing.T) {
 
 	t.Run("returns data", func(t *testing.T) {

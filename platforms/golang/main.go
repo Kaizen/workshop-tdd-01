@@ -3,18 +3,12 @@ package main
 import (
 	"bytes"
 	"encoding/json"
-	"fmt"
 	"io/ioutil"
 
 	"github.com/pkg/errors"
 )
 
 func main() {
-	fmt.Printf("foo = %d", foo())
-}
-
-func foo() int {
-	return 4
 }
 
 func fetchAllCards() ([]interface{}, error) {
