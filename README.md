@@ -10,5 +10,4 @@ See `katas` folder for all the assignments and information required.
 - Clone this
 - Open your favorite IDE
 - Open `platforms/<your platform>`
-- Try to run the `test.*` file. Ie, in `golang` it is `card_reader_test.go`
-
+- Try to run the `test.*` file. Ie, in `golang` it is `card_reader_test.go`. In `python` it is `test.py`
