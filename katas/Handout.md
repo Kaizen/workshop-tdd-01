@@ -19,6 +19,7 @@ Some have been worked out here:
 
 [StringCalculator Kata](StringCalculator.md)
 [WordWrap Kata](WordWrap.md)
+[FizzBuzz Kata](FizBuzz.md)
 
 For a comprehensive list of all code kata's, [look here](https://codingdojo.org/kata/)
 
