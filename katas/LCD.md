@@ -32,5 +32,8 @@ Change your program to support variable width or height of the digits. For examp
 
 ```
 
+
 # Trivia
 This is the inverse of the [Bank OCR Kata](https://codingdojo.org/kata/BankOCR)
+
+How would you deal with a "support additional display format" question? Ie, a graphical interface?
